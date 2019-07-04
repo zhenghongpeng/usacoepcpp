@@ -1,3 +1,0 @@
-/Users/rc/CLionProject/LearnFromMath/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/rc/CLionProject/LearnFromMath/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rc/CLionProject/LearnFromMath/cmake-build-debug/CMakeFiles/LearnFromMath.dir
