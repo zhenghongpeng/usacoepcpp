@@ -21,6 +21,12 @@ int main() {
                 }
             }
         }
-        if ((c1!=3 && c1!=))
+        if (c1<3 || c2<3) {
+            cout << "IMPOSSIBLE" << endl;
+            break;
+        }
+        if (i==j-1) {
+            cout << "POSSIBLE" << endl;
+        }
     }
 }

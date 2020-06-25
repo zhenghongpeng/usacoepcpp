@@ -22,13 +22,9 @@ int main() {
                     }
                 }
                 if (repeated == x) {
+                    cout << i << endl;
                     if (i!=N-1) {
                         cout << endl;
-                        cout << i << endl;
-                    }
-                    else {
-                        cout << endl;
-                        cout << i <<endl;
                     }
                     break;
                 }
